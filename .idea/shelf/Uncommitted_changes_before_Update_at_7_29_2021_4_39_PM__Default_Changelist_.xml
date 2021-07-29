@@ -1,0 +1,44 @@
+<changelist name="Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]" date="1627562386638" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 7/29/2021 4:39 PM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/YggdrasilTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/YggdrasilTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/LoginPageTest.class" />
+    <option name="AFTER_PATH" value="target/test-classes/LoginPageTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/LoginPageTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/GamelaunchTest.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/AllSlotsTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/AllSlotsTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/BoongoTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/BoongoTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/ForgotTest.class" />
+    <option name="AFTER_PATH" value="target/test-classes/ForgotTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/ForgotTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ChromeRunner.class" />
+    <option name="AFTER_PATH" value="target/classes/ChromeRunner.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/ChromeRunner.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/SmartSoftTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_29_2021_4_39_PM_[Default_Changelist]/SmartSoftTest.class" />
+  </binary>
+</changelist>

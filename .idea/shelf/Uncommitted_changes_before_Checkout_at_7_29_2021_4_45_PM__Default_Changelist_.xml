@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_7_29_2021_4_45_PM_[Default_Changelist]" date="1627562751567" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_29_2021_4_45_PM_[Default_Changelist]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 7/29/2021 4:45 PM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/GamelaunchTest.class" />
+    <option name="AFTER_PATH" value="target/test-classes/GamelaunchTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_29_2021_4_45_PM_[Default_Changelist]/GamelaunchTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/test-classes/LoginPageTest.class" />
+    <option name="AFTER_PATH" value="target/test-classes/LoginPageTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_29_2021_4_45_PM_[Default_Changelist]/LoginPageTest.class" />
+  </binary>
+</changelist>
